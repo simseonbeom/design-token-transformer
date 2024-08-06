@@ -4,18 +4,38 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 16 May 2024 20:48:48 GMT
+// Generated on Tue, 06 Aug 2024 21:48:23 GMT
 
 
 import UIKit
 
 public enum StyleDictionaryColor {
-    public static let colorsEmpty = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0)
-    public static let colorsMultipleFills0 = UIColor(red: 0.251, green: 1.000, blue: 0.729, alpha: 1)
-    public static let colorsMultipleFills1 = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.10196078431372549)
-    public static let colorsRefBlue = UIColor(red: 0.016, green: 0.290, blue: 1.000, alpha: 1)
-    public static let colorsSemiRed = UIColor(red: 1.000, green: 0.373, blue: 0.016, alpha: 0.5019607843137255)
-    public static let colorsSingleBlue = UIColor(red: 0.016, green: 0.290, blue: 1.000, alpha: 1)
-    public static let colorsSpecialCharacters = UIColor(red: 0.251, green: 0.875, blue: 0.314, alpha: 1)
-    public static let colorsSpecialCharactersNderung = UIColor(red: 0.204, green: 0.337, blue: 0.686, alpha: 1)
+    public static let darkAccent = #0171e2ff
+    public static let darkInfo = #58dc76ff
+    public static let darkOpacity = #000000cc
+    public static let darkPoint = #b02c20ff
+    public static let darkPrimary = #ffffffff
+    public static let darkPrimitiveBlack = #000000ff
+    public static let darkPrimitiveBlue = #0171e2ff
+    public static let darkPrimitiveGray200 = #f5f5f5ff
+    public static let darkPrimitiveGray300 = #cbcbcbff
+    public static let darkPrimitiveGray800 = #1f1f21ff
+    public static let darkPrimitiveGreen500 = #58dc76ff
+    public static let darkPrimitiveRed = #b02c20ff
+    public static let darkPrimitiveWhite = #ffffffff
+    public static let darkSecondary = #1f1f21ff
+    public static let lightAccent = #0171e2ff
+    public static let lightInfo = #58dc76ff
+    public static let lightOpacity = #ffffffcc
+    public static let lightPoint = #b02c20ff
+    public static let lightPrimary = #303033ff
+    public static let lightPrimitiveBlack = #000000ff
+    public static let lightPrimitiveBlue = #0171e2ff
+    public static let lightPrimitiveGray200 = #f5f5f5ff
+    public static let lightPrimitiveGray300 = #cbcbcbff
+    public static let lightPrimitiveGray800 = #303033ff
+    public static let lightPrimitiveGreen500 = #58dc76ff
+    public static let lightPrimitiveRed = #b02c20ff
+    public static let lightPrimitiveWhite = #ffffffff
+    public static let lightSecondary = #ffffffff
 }
