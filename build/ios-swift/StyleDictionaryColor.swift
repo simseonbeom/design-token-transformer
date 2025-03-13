@@ -4,18 +4,27 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 16 May 2024 20:48:48 GMT
+// Generated on Thu, 13 Mar 2025 23:56:57 GMT
 
 
 import UIKit
 
 public enum StyleDictionaryColor {
-    public static let colorsEmpty = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0)
-    public static let colorsMultipleFills0 = UIColor(red: 0.251, green: 1.000, blue: 0.729, alpha: 1)
-    public static let colorsMultipleFills1 = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.10196078431372549)
-    public static let colorsRefBlue = UIColor(red: 0.016, green: 0.290, blue: 1.000, alpha: 1)
-    public static let colorsSemiRed = UIColor(red: 1.000, green: 0.373, blue: 0.016, alpha: 0.5019607843137255)
-    public static let colorsSingleBlue = UIColor(red: 0.016, green: 0.290, blue: 1.000, alpha: 1)
-    public static let colorsSpecialCharacters = UIColor(red: 0.251, green: 0.875, blue: 0.314, alpha: 1)
-    public static let colorsSpecialCharactersNderung = UIColor(red: 0.204, green: 0.337, blue: 0.686, alpha: 1)
+    public static let accent = UIColor(red: 0.133, green: 0.588, blue: 0.886, alpha: 1)
+    public static let black = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
+    public static let blue = UIColor(red: 0.145, green: 0.447, blue: 1.000, alpha: 1)
+    public static let colorsAccent = #3486f0ff
+    public static let colorsBackground = #373737ff
+    public static let colorsBlack = #000000ff
+    public static let colorsBlue = #3486f0ff
+    public static let colorsBodyTextPrimary = #ffffffff
+    public static let colorsButtonTextPrimary = #ffffffff
+    public static let colorsGray700 = #373737ff
+    public static let colorsOrange = #ffba39ff
+    public static let colorsPrimary = #ffba39ff
+    public static let colorsStrokePrimary = #ffffffff
+    public static let colorsWhite = #ffffffff
+    public static let orange = UIColor(red: 1.000, green: 0.616, blue: 0.192, alpha: 1)
+    public static let primary = UIColor(red: 1.000, green: 0.776, blue: 0.161, alpha: 1)
+    public static let white = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
 }
